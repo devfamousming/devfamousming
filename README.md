@@ -1,9 +1,8 @@
 🚀 Elite Mobile & Web Application Development Team
 
 🌟 About Our Team
-We are a passionate and highly skilled Mobile & Web Application Development Team with over 12 years of professional experience delivering innovative, scalable, and high-performance digital solutions for startups, businesses, and enterprises worldwide.
-
-Our mission is to transform ideas into powerful digital products that combine modern design, smart functionality, and exceptional user experience.
+   We are a passionate and highly skilled Mobile & Web Application Development Team with over 12 years of professional experience delivering innovative, scalable, and high-performance digital solutions for startups, businesses,    and enterprises worldwide.
+   Our mission is to transform ideas into powerful digital products that combine modern design, smart functionality, and exceptional user experience.
 
 💼 What We Do
   📱 Mobile Application Development
